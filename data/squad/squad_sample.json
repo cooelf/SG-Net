@@ -1,0 +1,1939 @@
+{   "version": "v2.0",
+    "data": [
+        {
+            "paragraphs": [
+                {
+                    "context": "The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse (\"Norman\" comes from \"Norseman\") raiders and pirates from Denmark, Iceland and Norway who, under their leader Rollo, agreed to swear fealty to King Charles III of West Francia. Through generations of assimilation and mixing with the native Frankish and Roman-Gaulish populations, their descendants would gradually merge with the Carolingian-based cultures of West Francia. The distinct cultural and ethnic identity of the Normans emerged initially in the first half of the 10th century, and it continued to evolve over the succeeding centuries.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 159, 
+                                    "text": "France"
+                                }, 
+                                {
+                                    "answer_start": 159, 
+                                    "text": "France"
+                                }, 
+                                {
+                                    "answer_start": 159, 
+                                    "text": "France"
+                                }, 
+                                {
+                                    "answer_start": 159, 
+                                    "text": "France"
+                                }
+                            ], 
+                            "id": "56ddde6b9a695914005b9628", 
+                            "is_impossible": false, 
+                            "question": "In what country is Normandy located?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 94, 
+                                    "text": "10th and 11th centuries"
+                                }, 
+                                {
+                                    "answer_start": 87, 
+                                    "text": "in the 10th and 11th centuries"
+                                }, 
+                                {
+                                    "answer_start": 94, 
+                                    "text": "10th and 11th centuries"
+                                }, 
+                                {
+                                    "answer_start": 94, 
+                                    "text": "10th and 11th centuries"
+                                }
+                            ], 
+                            "id": "56ddde6b9a695914005b9629", 
+                            "is_impossible": false, 
+                            "question": "When were the Normans in Normandy?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Denmark, Iceland and Norway"
+                                }, 
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Denmark, Iceland and Norway"
+                                }, 
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Denmark, Iceland and Norway"
+                                }, 
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Denmark, Iceland and Norway"
+                                }
+                            ], 
+                            "id": "56ddde6b9a695914005b962a", 
+                            "is_impossible": false, 
+                            "question": "From which countries did the Norse originate?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 308, 
+                                    "text": "Rollo"
+                                }, 
+                                {
+                                    "answer_start": 308, 
+                                    "text": "Rollo"
+                                }, 
+                                {
+                                    "answer_start": 308, 
+                                    "text": "Rollo"
+                                }, 
+                                {
+                                    "answer_start": 308, 
+                                    "text": "Rollo"
+                                }
+                            ], 
+                            "id": "56ddde6b9a695914005b962b", 
+                            "is_impossible": false, 
+                            "question": "Who was the Norse leader?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 671, 
+                                    "text": "10th century"
+                                }, 
+                                {
+                                    "answer_start": 649, 
+                                    "text": "the first half of the 10th century"
+                                }, 
+                                {
+                                    "answer_start": 671, 
+                                    "text": "10th"
+                                }, 
+                                {
+                                    "answer_start": 671, 
+                                    "text": "10th"
+                                }
+                            ], 
+                            "id": "56ddde6b9a695914005b962c", 
+                            "is_impossible": false, 
+                            "question": "What century did the Normans first gain their separate identity?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad39d53604f3c001a3fe8d1", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 4, 
+                                    "text": "Normans"
+                                }
+                            ], 
+                            "question": "Who gave their name to Normandy in the 1000's and 1100's"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad39d53604f3c001a3fe8d2", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 137, 
+                                    "text": "Normandy"
+                                }
+                            ], 
+                            "question": "What is France a region of?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad39d53604f3c001a3fe8d3", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 308, 
+                                    "text": "Rollo"
+                                }
+                            ], 
+                            "question": "Who did King Charles III swear fealty to?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad39d53604f3c001a3fe8d4", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 671, 
+                                    "text": "10th century"
+                                }
+                            ], 
+                            "question": "When did the Frankish identity emerge?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo-Romance language of the Frankish land they settled, their dialect becoming known as Norman, Normaund or Norman French, an important literary language. The Duchy of Normandy, which they formed by treaty with the French crown, was a great fief of medieval France, and under Richard I of Normandy was forged into a cohesive and formidable principality in feudal tenure. The Normans are noted both for their culture, such as their unique Romanesque architecture and musical traditions, and for their significant military accomplishments and innovations. Norman adventurers founded the Kingdom of Sicily under Roger II after conquering southern Italy on the Saracens and Byzantines, and an expedition on behalf of their duke, William the Conqueror, led to the Norman conquest of England at the Battle of Hastings in 1066. Norman cultural and military influence spread from these new European centres to the Crusader states of the Near East, where their prince Bohemond I founded the Principality of Antioch in the Levant, to Scotland and Wales in Great Britain, to Ireland, and to the coasts of north Africa and the Canary Islands.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1022, 
+                                    "text": "William the Conqueror"
+                                }, 
+                                {
+                                    "answer_start": 1022, 
+                                    "text": "William the Conqueror"
+                                }, 
+                                {
+                                    "answer_start": 1022, 
+                                    "text": "William the Conqueror"
+                                }
+                            ], 
+                            "id": "56dddf4066d3e219004dad5f", 
+                            "is_impossible": false, 
+                            "question": "Who was the duke in the battle of Hastings?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 573, 
+                                    "text": "Richard I"
+                                }, 
+                                {
+                                    "answer_start": 573, 
+                                    "text": "Richard I"
+                                }, 
+                                {
+                                    "answer_start": 573, 
+                                    "text": "Richard I"
+                                }
+                            ], 
+                            "id": "56dddf4066d3e219004dad60", 
+                            "is_impossible": false, 
+                            "question": "Who ruled the duchy of Normandy"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 230, 
+                                    "text": "Catholic"
+                                }, 
+                                {
+                                    "answer_start": 230, 
+                                    "text": "Catholic orthodoxy"
+                                }, 
+                                {
+                                    "answer_start": 230, 
+                                    "text": "Catholic"
+                                }
+                            ], 
+                            "id": "56dddf4066d3e219004dad61", 
+                            "is_impossible": false, 
+                            "question": "What religion were the Normans"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3a266604f3c001a3fea27", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 31, 
+                                    "text": "political, cultural and military"
+                                }
+                            ], 
+                            "question": "What type of major impact did the Norman dynasty have on modern Europe?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3a266604f3c001a3fea28", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 118, 
+                                    "text": "Normans"
+                                }
+                            ], 
+                            "question": "Who was famed for their Christian spirit?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3a266604f3c001a3fea29", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 118, 
+                                    "text": "Normans"
+                                }
+                            ], 
+                            "question": "Who assimilted the Roman language?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3a266604f3c001a3fea2a", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 573, 
+                                    "text": "Richard I"
+                                }
+                            ], 
+                            "question": "Who ruled the country of Normandy?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3a266604f3c001a3fea2b", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 1295, 
+                                    "text": "Antioch"
+                                }
+                            ], 
+                            "question": "What principality did William the conquerer found?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "The English name \"Normans\" comes from the French words Normans/Normanz, plural of Normant, modern French normand, which is itself borrowed from Old Low Franconian Nortmann \"Northman\" or directly from Old Norse Nor\u00f0ma\u00f0r, Latinized variously as Nortmannus, Normannus, or Nordmannus (recorded in Medieval Latin, 9th century) to mean \"Norseman, Viking\".", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 341, 
+                                    "text": "Viking"
+                                }, 
+                                {
+                                    "answer_start": 331, 
+                                    "text": "Norseman, Viking"
+                                }, 
+                                {
+                                    "answer_start": 331, 
+                                    "text": "Norseman, Viking"
+                                }
+                            ], 
+                            "id": "56dde0379a695914005b9636", 
+                            "is_impossible": false, 
+                            "question": "What is the original meaning of the word Norman?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 309, 
+                                    "text": "9th century"
+                                }, 
+                                {
+                                    "answer_start": 309, 
+                                    "text": "9th century"
+                                }, 
+                                {
+                                    "answer_start": 309, 
+                                    "text": "9th century"
+                                }
+                            ], 
+                            "id": "56dde0379a695914005b9637", 
+                            "is_impossible": false, 
+                            "question": "When was the Latin version of the word Norman first recorded?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ab70604f3c001a3feb89", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 17, 
+                                    "text": "\"Normans\""
+                                }
+                            ], 
+                            "question": "What name comes from the English words Normans/Normanz?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ab70604f3c001a3feb8a", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 309, 
+                                    "text": "9th century"
+                                }
+                            ], 
+                            "question": "When was the French version of the word Norman first recorded?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "In the course of the 10th century, the initially destructive incursions of Norse war bands into the rivers of France evolved into more permanent encampments that included local women and personal property. The Duchy of Normandy, which began in 911 as a fiefdom, was established by the treaty of Saint-Clair-sur-Epte between King Charles III of West Francia and the famed Viking ruler Rollo, and was situated in the former Frankish kingdom of Neustria. The treaty offered Rollo and his men the French lands between the river Epte and the Atlantic coast in exchange for their protection against further Viking incursions. The area corresponded to the northern part of present-day Upper Normandy down to the river Seine, but the Duchy would eventually extend west beyond the Seine. The territory was roughly equivalent to the old province of Rouen, and reproduced the Roman administrative structure of Gallia Lugdunensis II (part of the former Gallia Lugdunensis).", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 244, 
+                                    "text": "911"
+                                }, 
+                                {
+                                    "answer_start": 244, 
+                                    "text": "911"
+                                }, 
+                                {
+                                    "answer_start": 244, 
+                                    "text": "911"
+                                }
+                            ], 
+                            "id": "56dde0ba66d3e219004dad75", 
+                            "is_impossible": false, 
+                            "question": "When was the Duchy of Normandy founded?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 324, 
+                                    "text": "King Charles III"
+                                }, 
+                                {
+                                    "answer_start": 324, 
+                                    "text": "King Charles III"
+                                }, 
+                                {
+                                    "answer_start": 324, 
+                                    "text": "King Charles III"
+                                }
+                            ], 
+                            "id": "56dde0ba66d3e219004dad76", 
+                            "is_impossible": false, 
+                            "question": "Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 711, 
+                                    "text": "Seine"
+                                }, 
+                                {
+                                    "answer_start": 524, 
+                                    "text": "Epte"
+                                }, 
+                                {
+                                    "answer_start": 711, 
+                                    "text": "Seine"
+                                }
+                            ], 
+                            "id": "56dde0ba66d3e219004dad77", 
+                            "is_impossible": false, 
+                            "question": "What river originally bounded the Duchy"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ad61604f3c001a3fec0d", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 21, 
+                                    "text": "10th century"
+                                }
+                            ], 
+                            "question": "when did Nors encampments ivolve into destructive incursions?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ad61604f3c001a3fec0e", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 285, 
+                                    "text": "treaty of Saint-Clair-sur-Epte"
+                                }
+                            ], 
+                            "question": "What treaty was established in the 9th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ad61604f3c001a3fec0f", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 384, 
+                                    "text": "Rollo"
+                                }
+                            ], 
+                            "question": "Who established a treaty with King Charles the third of France?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ad61604f3c001a3fec10", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 593, 
+                                    "text": "further Viking incursions."
+                                }
+                            ], 
+                            "question": "What did the French promises to protect Rollo and his men from?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "Before Rollo's arrival, its populations did not differ from Picardy or the \u00cele-de-France, which were considered \"Frankish\". Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse\u2013Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 7, 
+                                    "text": "Rollo"
+                                }, 
+                                {
+                                    "answer_start": 7, 
+                                    "text": "Rollo"
+                                }, 
+                                {
+                                    "answer_start": 7, 
+                                    "text": "Rollo"
+                                }
+                            ], 
+                            "id": "56dde1d966d3e219004dad8d", 
+                            "is_impossible": false, 
+                            "question": "Who upon arriving gave the original viking settlers a common identity?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ae14604f3c001a3fec39", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 174, 
+                                    "text": "880s"
+                                }
+                            ], 
+                            "question": "When did Rollo begin to arrive in Normandy?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ae14604f3c001a3fec3a", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 547, 
+                                    "text": "Danes, Norwegians, Norse\u2013Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes"
+                                }
+                            ], 
+                            "question": "What Viking groups were conquered by Rollo?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 121, 
+                                    "text": "Catholicism"
+                                }, 
+                                {
+                                    "answer_start": 121, 
+                                    "text": "Catholicism"
+                                }, 
+                                {
+                                    "answer_start": 121, 
+                                    "text": "Catholicism"
+                                }
+                            ], 
+                            "id": "56dde27d9a695914005b9651", 
+                            "is_impossible": false, 
+                            "question": "What was the Norman religion?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 327, 
+                                    "text": "north"
+                                }, 
+                                {
+                                    "answer_start": 323, 
+                                    "text": "the north"
+                                }, 
+                                {
+                                    "answer_start": 327, 
+                                    "text": "north"
+                                }
+                            ], 
+                            "id": "56dde27d9a695914005b9652", 
+                            "is_impossible": false, 
+                            "question": "What part of France were the Normans located?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3af11604f3c001a3fec63", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 121, 
+                                    "text": "Catholicism"
+                                }
+                            ], 
+                            "question": "What was replace with the Norse religion?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3af11604f3c001a3fec64", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 224, 
+                                    "text": "Frankish heritage"
+                                }
+                            ], 
+                            "question": "What did maternal Old Norse traditions merge with?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3af11604f3c001a3fec65", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 97, 
+                                    "text": "Old Norse"
+                                }
+                            ], 
+                            "question": "What language replaced the Gallo-Romance language?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "The Normans thereafter adopted the growing feudal doctrines of the rest of France, and worked them into a functional hierarchical system in both Normandy and in England. The new Norman rulers were culturally and ethnically distinct from the old French aristocracy, most of whom traced their lineage to Franks of the Carolingian dynasty. Most Norman knights remained poor and land-hungry, and by 1066 Normandy had been exporting fighting horsemen for more than a generation. Many Normans of Italy, France and England eventually served as avid Crusaders under the Italo-Norman prince Bohemund I and the Anglo-Norman king Richard the Lion-Heart.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 428, 
+                                    "text": "fighting horsemen"
+                                }, 
+                                {
+                                    "answer_start": 428, 
+                                    "text": "fighting horsemen"
+                                }, 
+                                {
+                                    "answer_start": 428, 
+                                    "text": "fighting horsemen"
+                                }
+                            ], 
+                            "id": "56dde2fa66d3e219004dad9b", 
+                            "is_impossible": false, 
+                            "question": "What was one of the Norman's major exports?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3c626604f3c001a3ff011", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 75, 
+                                    "text": "France"
+                                }
+                            ], 
+                            "question": "Who adopted the fuedel doctrines of the Normans?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3c626604f3c001a3ff012", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 428, 
+                                    "text": "fighting horsemen"
+                                }
+                            ], 
+                            "question": "What was one of the Norman's major imports?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3c626604f3c001a3ff013", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 490, 
+                                    "text": "Italy, France and England"
+                                }
+                            ], 
+                            "question": "Who's arristocracy eventually served as avid Crusaders?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "Soon after the Normans began to enter Italy, they entered the Byzantine Empire and then Armenia, fighting against the Pechenegs, the Bulgars, and especially the Seljuk Turks. Norman mercenaries were first encouraged to come to the south by the Lombards to act against the Byzantines, but they soon fought in Byzantine service in Sicily. They were prominent alongside Varangian and Lombard contingents in the Sicilian campaign of George Maniaces in 1038\u201340. There is debate whether the Normans in Greek service actually were from Norman Italy, and it now seems likely only a few came from there. It is also unknown how many of the \"Franks\", as the Byzantines called them, were Normans and not other Frenchmen.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 161, 
+                                    "text": "Seljuk Turks"
+                                }, 
+                                {
+                                    "answer_start": 114, 
+                                    "text": "the Pechenegs, the Bulgars, and especially the Seljuk Turks"
+                                }, 
+                                {
+                                    "answer_start": 157, 
+                                    "text": "the Seljuk Turks"
+                                }
+                            ], 
+                            "id": "56de0f6a4396321400ee257f", 
+                            "is_impossible": false, 
+                            "question": "Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3dbc6604f3c001a3ff3e9", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 15, 
+                                    "text": "Normans"
+                                }
+                            ], 
+                            "question": "Who entered Italy soon after the Byzantine Empire?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3dbc6604f3c001a3ff3ea", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 118, 
+                                    "text": "Pechenegs, the Bulgars, and especially the Seljuk Turks"
+                                }
+                            ], 
+                            "question": "Who did the Normans fight in Italy?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3dbc6604f3c001a3ff3eb", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 244, 
+                                    "text": "Lombards"
+                                }
+                            ], 
+                            "question": "Who did the Normans encourage to come to the south?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3dbc6604f3c001a3ff3ec", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 404, 
+                                    "text": "the Sicilian campaign of George Maniaces"
+                                }
+                            ], 
+                            "question": "During what campaign did the Vargian and Lombard fight?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "One of the first Norman mercenaries to serve as a Byzantine general was Herv\u00e9 in the 1050s. By then however, there were already Norman mercenaries serving as far away as Trebizond and Georgia. They were based at Malatya and Edessa, under the Byzantine duke of Antioch, Isaac Komnenos. In the 1060s, Robert Crispin led the Normans of Edessa against the Turks. Roussel de Bailleul even tried to carve out an independent state in Asia Minor with support from the local population, but he was stopped by the Byzantine general Alexius Komnenos.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 85, 
+                                    "text": "1050s"
+                                }, 
+                                {
+                                    "answer_start": 78, 
+                                    "text": "in the 1050s"
+                                }, 
+                                {
+                                    "answer_start": 78, 
+                                    "text": "in the 1050s"
+                                }
+                            ], 
+                            "id": "56de0ffd4396321400ee258d", 
+                            "is_impossible": false, 
+                            "question": "When did Herve serve as a Byzantine general?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 292, 
+                                    "text": "1060s"
+                                }, 
+                                {
+                                    "answer_start": 285, 
+                                    "text": "In the 1060s"
+                                }, 
+                                {
+                                    "answer_start": 285, 
+                                    "text": "In the 1060s"
+                                }
+                            ], 
+                            "id": "56de0ffd4396321400ee258e", 
+                            "is_impossible": false, 
+                            "question": "When did Robert Crispin go up against the Turks?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 522, 
+                                    "text": "Alexius Komnenos"
+                                }, 
+                                {
+                                    "answer_start": 522, 
+                                    "text": "Alexius Komnenos"
+                                }, 
+                                {
+                                    "answer_start": 522, 
+                                    "text": "Alexius Komnenos"
+                                }
+                            ], 
+                            "id": "56de0ffd4396321400ee258f", 
+                            "is_impossible": false, 
+                            "question": "Who ruined Roussel de Bailleul's plans for an independent state?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3de8b604f3c001a3ff467", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 72, 
+                                    "text": "Herv\u00e9"
+                                }
+                            ], 
+                            "question": "Who was the first Byzantine mercenary to serve with the Normans?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3de8b604f3c001a3ff468", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 85, 
+                                    "text": "1050s"
+                                }
+                            ], 
+                            "question": "When did Herve serve as a Norman general?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3de8b604f3c001a3ff469", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 359, 
+                                    "text": "Roussel de Bailleul"
+                                }
+                            ], 
+                            "question": "Who ruined Alexius Komnenos plans for an independent state?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3de8b604f3c001a3ff46a", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 292, 
+                                    "text": "1060s"
+                                }
+                            ], 
+                            "question": "When did Herve go up against the Turks?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "Some Normans joined Turkish forces to aid in the destruction of the Armenians vassal-states of Sassoun and Taron in far eastern Anatolia. Later, many took up service with the Armenian state further south in Cilicia and the Taurus Mountains. A Norman named Oursel led a force of \"Franks\" into the upper Euphrates valley in northern Syria. From 1073 to 1074, 8,000 of the 20,000 troops of the Armenian general Philaretus Brachamius were Normans\u2014formerly of Oursel\u2014led by Raimbaud. They even lent their ethnicity to the name of their castle: Afranji, meaning \"Franks.\" The known trade between Amalfi and Antioch and between Bari and Tarsus may be related to the presence of Italo-Normans in those cities while Amalfi and Bari were under Norman rule in Italy.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 539, 
+                                    "text": "Afranji"
+                                }, 
+                                {
+                                    "answer_start": 539, 
+                                    "text": "Afranji"
+                                }, 
+                                {
+                                    "answer_start": 539, 
+                                    "text": "Afranji"
+                                }
+                            ], 
+                            "id": "56de10b44396321400ee2593", 
+                            "is_impossible": false, 
+                            "question": "What was the name of the Norman castle?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Oursel"
+                                }, 
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Oursel"
+                                }, 
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Oursel"
+                                }
+                            ], 
+                            "id": "56de10b44396321400ee2594", 
+                            "is_impossible": false, 
+                            "question": "Who was the leader when the Franks entered the Euphrates valley?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 20, 
+                                    "text": "Turkish forces"
+                                }, 
+                                {
+                                    "answer_start": 20, 
+                                    "text": "Turkish forces"
+                                }, 
+                                {
+                                    "answer_start": 20, 
+                                    "text": "Turkish forces"
+                                }
+                            ], 
+                            "id": "56de10b44396321400ee2595", 
+                            "is_impossible": false, 
+                            "question": "Who did the Normans team up with in Anatolia?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3e96b604f3c001a3ff689", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 20, 
+                                    "text": "Turkish"
+                                }
+                            ], 
+                            "question": "Who joined Norman forces in the destruction of the Armenians?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3e96b604f3c001a3ff68a", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 171, 
+                                    "text": "the Armenian state"
+                                }
+                            ], 
+                            "question": "Who did the Turks take up service with?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3e96b604f3c001a3ff68b", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 256, 
+                                    "text": "Oursel"
+                                }
+                            ], 
+                            "question": "What Frank led Norman forces?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3e96b604f3c001a3ff68c", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 292, 
+                                    "text": "the upper Euphrates valley in northern Syria"
+                                }
+                            ], 
+                            "question": "Where did Oursel lead the Franks?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "Several families of Byzantine Greece were of Norman mercenary origin during the period of the Comnenian Restoration, when Byzantine emperors were seeking out western European warriors. The Raoulii were descended from an Italo-Norman named Raoul, the Petraliphae were descended from a Pierre d'Aulps, and that group of Albanian clans known as the Maniakates were descended from Normans who served under George Maniaces in the Sicilian expedition of 1038.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 45, 
+                                    "text": "Norman mercenary"
+                                }, 
+                                {
+                                    "answer_start": 217, 
+                                    "text": "an Italo-Norman named Raoul"
+                                }, 
+                                {
+                                    "answer_start": 202, 
+                                    "text": "descended from an Italo-Norman named Raoul"
+                                }
+                            ], 
+                            "id": "56de11154396321400ee25aa", 
+                            "is_impossible": false, 
+                            "question": "What were the origins of the Raouliii family?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ea79604f3c001a3ff6e9", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 20, 
+                                    "text": "Byzantine Greece"
+                                }
+                            ], 
+                            "question": "Where were several Norman mercenary familes originate from?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ea79604f3c001a3ff6ea", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 402, 
+                                    "text": "George Maniaces"
+                                }
+                            ], 
+                            "question": "Who did the Normans serve under in the 10th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ea79604f3c001a3ff6eb", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 425, 
+                                    "text": "Sicilian expedition"
+                                }
+                            ], 
+                            "question": "What expedition did George Maniaces lead in the 10th century?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "Robert Guiscard, an other Norman adventurer previously elevated to the dignity of count of Apulia as the result of his military successes, ultimately drove the Byzantines out of southern Italy. Having obtained the consent of pope Gregory VII and acting as his vassal, Robert continued his campaign conquering the Balkan peninsula as a foothold for western feudal lords and the Catholic Church. After allying himself with Croatia and the Catholic cities of Dalmatia, in 1081 he led an army of 30,000 men in 300 ships landing on the southern shores of Albania, capturing Valona, Kanina, Jericho (Orikumi), and reaching Butrint after numerous pillages. They joined the fleet that had previously conquered Corfu and attacked Dyrrachium from land and sea, devastating everything along the way. Under these harsh circumstances, the locals accepted the call of emperor Alexius I Comnenus to join forces with the Byzantines against the Normans. The Albanian forces could not take part in the ensuing battle because it had started before their arrival. Immediately before the battle, the Venetian fleet had secured a victory in the coast surrounding the city. Forced to retreat, Alexius ceded the command to a high Albanian official named Comiscortes in the service of Byzantium. The city's garrison resisted until February 1082, when Dyrrachium was betrayed to the Normans by the Venetian and Amalfitan merchants who had settled there. The Normans were now free to penetrate into the hinterland; they took Ioannina and some minor cities in southwestern Macedonia and Thessaly before appearing at the gates of Thessalonica. Dissension among the high ranks coerced the Normans to retreat to Italy. They lost Dyrrachium, Valona, and Butrint in 1085, after the death of Robert.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Robert Guiscard"
+                                }, 
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Robert Guiscard"
+                                }, 
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Robert Guiscard"
+                                }
+                            ], 
+                            "id": "56de148dcffd8e1900b4b5bc", 
+                            "is_impossible": false, 
+                            "question": "What was the name of the count of Apulia "
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 1315, 
+                                    "text": "1082"
+                                }, 
+                                {
+                                    "answer_start": 1306, 
+                                    "text": "February 1082"
+                                }, 
+                                {
+                                    "answer_start": 1306, 
+                                    "text": "February 1082"
+                                }
+                            ], 
+                            "id": "56de148dcffd8e1900b4b5bd", 
+                            "is_impossible": false, 
+                            "question": "When did Dyrrachium  fall to the Normans?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 492, 
+                                    "text": "30,000"
+                                }, 
+                                {
+                                    "answer_start": 492, 
+                                    "text": "30,000"
+                                }, 
+                                {
+                                    "answer_start": 492, 
+                                    "text": "30,000"
+                                }
+                            ], 
+                            "id": "56de148dcffd8e1900b4b5be", 
+                            "is_impossible": false, 
+                            "question": "How many men were in Robert's army?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ed26604f3c001a3ff799", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "Robert Guiscard"
+                                }
+                            ], 
+                            "question": "Who ultimatly drove the Byzantines out of Europe?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ed26604f3c001a3ff79a", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 225, 
+                                    "text": "pope Gregory VII"
+                                }
+                            ], 
+                            "question": "What pope opposed Roberts campaign?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ed26604f3c001a3ff79b", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 1326, 
+                                    "text": "Dyrrachium"
+                                }
+                            ], 
+                            "question": "What fell to the Normans in the 10th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ed26604f3c001a3ff79c", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 492, 
+                                    "text": "30,000"
+                                }
+                            ], 
+                            "question": "How many men did Roberts army face?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "A few years after the First Crusade, in 1107, the Normans under the command of Bohemond, Robert's son, landed in Valona and besieged Dyrrachium using the most sophisticated military equipment of the time, but to no avail. Meanwhile, they occupied Petrela, the citadel of Mili at the banks of the river Deabolis, Gllavenica (Ballsh), Kanina and Jericho. This time, the Albanians sided with the Normans, dissatisfied by the heavy taxes the Byzantines had imposed upon them. With their help, the Normans secured the Arbanon passes and opened their way to Dibra. The lack of supplies, disease and Byzantine resistance forced Bohemond to retreat from his campaign and sign a peace treaty with the Byzantines in the city of Deabolis.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 302, 
+                                    "text": "Deabolis"
+                                }, 
+                                {
+                                    "answer_start": 718, 
+                                    "text": "Deabolis"
+                                }, 
+                                {
+                                    "answer_start": 718, 
+                                    "text": "Deabolis"
+                                }
+                            ], 
+                            "id": "56de15104396321400ee25b7", 
+                            "is_impossible": false, 
+                            "question": "Where did the Normans and Byzantines sign the peace treaty?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 79, 
+                                    "text": "Bohemond"
+                                }, 
+                                {
+                                    "answer_start": 79, 
+                                    "text": "Bohemond"
+                                }, 
+                                {
+                                    "answer_start": 79, 
+                                    "text": "Bohemond"
+                                }
+                            ], 
+                            "id": "56de15104396321400ee25b8", 
+                            "is_impossible": false, 
+                            "question": "Who was Robert's son?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 302, 
+                                    "text": "Deabolis"
+                                }, 
+                                {
+                                    "answer_start": 292, 
+                                    "text": "the river Deabolis"
+                                }, 
+                                {
+                                    "answer_start": 302, 
+                                    "text": "Deabolis"
+                                }
+                            ], 
+                            "id": "56de15104396321400ee25b9", 
+                            "is_impossible": false, 
+                            "question": "What river was Petrela located by?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ee2d604f3c001a3ff7e1", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 133, 
+                                    "text": "Dyrrachium"
+                                }
+                            ], 
+                            "question": "Who did the Normans besiege in the 11th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ee2d604f3c001a3ff7e2", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 50, 
+                                    "text": "Normans"
+                                }
+                            ], 
+                            "question": "Who did Robert lead agains Dyrrachium in 1107?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3ee2d604f3c001a3ff7e3", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 89, 
+                                    "text": "Robert"
+                                }
+                            ], 
+                            "question": "Who was Bohemond's son?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "The further decline of Byzantine state-of-affairs paved the road to a third attack in 1185, when a large Norman army invaded Dyrrachium, owing to the betrayal of high Byzantine officials. Some time later, Dyrrachium\u2014one of the most important naval bases of the Adriatic\u2014fell again to Byzantine hands.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 86, 
+                                    "text": "1185"
+                                }, 
+                                {
+                                    "answer_start": 83, 
+                                    "text": "in 1185"
+                                }, 
+                                {
+                                    "answer_start": 86, 
+                                    "text": "1185"
+                                }
+                            ], 
+                            "id": "56de1563cffd8e1900b4b5c2", 
+                            "is_impossible": false, 
+                            "question": "When did the Normans attack Dyrrachium?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 125, 
+                                    "text": "Dyrrachium"
+                                }, 
+                                {
+                                    "answer_start": 205, 
+                                    "text": "Dyrrachium"
+                                }, 
+                                {
+                                    "answer_start": 205, 
+                                    "text": "Dyrrachium"
+                                }
+                            ], 
+                            "id": "56de1563cffd8e1900b4b5c3", 
+                            "is_impossible": false, 
+                            "question": "What was the naval base called?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 257, 
+                                    "text": "the Adriatic"
+                                }, 
+                                {
+                                    "answer_start": 257, 
+                                    "text": "the Adriatic"
+                                }, 
+                                {
+                                    "answer_start": 261, 
+                                    "text": "Adriatic"
+                                }
+                            ], 
+                            "id": "56de1563cffd8e1900b4b5c4", 
+                            "is_impossible": false, 
+                            "question": "Where was Dyrrachium located?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f028604f3c001a3ff823", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 105, 
+                                    "text": "Norman army"
+                                }
+                            ], 
+                            "question": "Who attacked Dyrrachium in the 11th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f028604f3c001a3ff824", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 162, 
+                                    "text": "high Byzantine officials"
+                                }
+                            ], 
+                            "question": "Who betrayed the Normans?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f028604f3c001a3ff825", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 205, 
+                                    "text": "Dyrrachium"
+                                }
+                            ], 
+                            "question": "What naval base fell to the Normans?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 360, 
+                                    "text": "King Ethelred II"
+                                }, 
+                                {
+                                    "answer_start": 365, 
+                                    "text": "Ethelred II"
+                                }, 
+                                {
+                                    "answer_start": 360, 
+                                    "text": "King Ethelred II"
+                                }
+                            ], 
+                            "id": "56de15dbcffd8e1900b4b5c8", 
+                            "is_impossible": false, 
+                            "question": "Who did Emma Marry?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 327, 
+                                    "text": "Duke Richard II"
+                                }, 
+                                {
+                                    "answer_start": 327, 
+                                    "text": "Duke Richard II"
+                                }, 
+                                {
+                                    "answer_start": 327, 
+                                    "text": "Duke Richard II"
+                                }
+                            ], 
+                            "id": "56de15dbcffd8e1900b4b5c9", 
+                            "is_impossible": false, 
+                            "question": "Who was Emma's brother?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 423, 
+                                    "text": "Normandy"
+                                }, 
+                                {
+                                    "answer_start": 423, 
+                                    "text": "Normandy"
+                                }, 
+                                {
+                                    "answer_start": 423, 
+                                    "text": "Normandy"
+                                }
+                            ], 
+                            "id": "56de15dbcffd8e1900b4b5ca", 
+                            "is_impossible": false, 
+                            "question": "To where did Ethelred flee?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 480, 
+                                    "text": "Sweyn Forkbeard"
+                                }, 
+                                {
+                                    "answer_start": 480, 
+                                    "text": "Sweyn Forkbeard"
+                                }, 
+                                {
+                                    "answer_start": 480, 
+                                    "text": "Sweyn Forkbeard"
+                                }
+                            ], 
+                            "id": "56de15dbcffd8e1900b4b5cb", 
+                            "is_impossible": false, 
+                            "question": "Who kicked Ethelred out?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f187604f3c001a3ff86f", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 562, 
+                                    "text": "Emma"
+                                }
+                            ], 
+                            "question": "Who married Cnut the Great?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f187604f3c001a3ff870", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 435, 
+                                    "text": "1013"
+                                }
+                            ], 
+                            "question": "When did Richard II flee to Normandy?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f187604f3c001a3ff871", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 90, 
+                                    "text": "Viking"
+                                }
+                            ], 
+                            "question": "Who's major ports were controlled by the English?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 115, 
+                                    "text": "Harthacnut"
+                                }, 
+                                {
+                                    "answer_start": 115, 
+                                    "text": "Harthacnut"
+                                }, 
+                                {
+                                    "answer_start": 115, 
+                                    "text": "Harthacnut"
+                                }
+                            ], 
+                            "id": "56de1645cffd8e1900b4b5d0", 
+                            "is_impossible": false, 
+                            "question": "Who was Edward the Confessor's half-brother?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 71, 
+                                    "text": "1041"
+                                }, 
+                                {
+                                    "answer_start": 68, 
+                                    "text": "in 1041"
+                                }, 
+                                {
+                                    "answer_start": 71, 
+                                    "text": "1041"
+                                }
+                            ], 
+                            "id": "56de1645cffd8e1900b4b5d1", 
+                            "is_impossible": false, 
+                            "question": "When did Edward return?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 382, 
+                                    "text": "Robert of Jumi\u00e8ges"
+                                }, 
+                                {
+                                    "answer_start": 382, 
+                                    "text": "Robert of Jumi\u00e8ges"
+                                }, 
+                                {
+                                    "answer_start": 382, 
+                                    "text": "Robert of Jumi\u00e8ges"
+                                }
+                            ], 
+                            "id": "56de1645cffd8e1900b4b5d2", 
+                            "is_impossible": false, 
+                            "question": "Who did Edward make archbishop of Canterbury?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f350604f3c001a3ff8ef", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 71, 
+                                    "text": "1041"
+                                }
+                            ], 
+                            "question": "When did Edward the Confessor's son return from his fathers refuge?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f350604f3c001a3ff8f0", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 253, 
+                                    "text": "English cavalry force"
+                                }
+                            ], 
+                            "question": "What kind of force did Harthacnut establish?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f350604f3c001a3ff8f1", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 361, 
+                                    "text": "Edward"
+                                }
+                            ], 
+                            "question": "Who made Robert of Jumieges earl of Hereford?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "In 1066, Duke William II of Normandy conquered England killing King Harold II at the Battle of Hastings. The invading Normans and their descendants replaced the Anglo-Saxons as the ruling class of England. The nobility of England were part of a single Normans culture and many had lands on both sides of the channel. Early Norman kings of England, as Dukes of Normandy, owed homage to the King of France for their land on the continent. They considered England to be their most important holding (it brought with it the title of King\u2014an important status symbol).", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 85, 
+                                    "text": "Battle of Hastings"
+                                }, 
+                                {
+                                    "answer_start": 81, 
+                                    "text": "the Battle of Hastings"
+                                }, 
+                                {
+                                    "answer_start": 78, 
+                                    "text": "at the Battle of Hastings"
+                                }
+                            ], 
+                            "id": "56de16ca4396321400ee25c5", 
+                            "is_impossible": false, 
+                            "question": "Where did Harold II die?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 14, 
+                                    "text": "William II"
+                                }, 
+                                {
+                                    "answer_start": 9, 
+                                    "text": "Duke William II"
+                                }, 
+                                {
+                                    "answer_start": 9, 
+                                    "text": "Duke William II"
+                                }
+                            ], 
+                            "id": "56de16ca4396321400ee25c6", 
+                            "is_impossible": false, 
+                            "question": "Who killed Harold II? "
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 3, 
+                                    "text": "1066"
+                                }, 
+                                {
+                                    "answer_start": 0, 
+                                    "text": "In 1066"
+                                }, 
+                                {
+                                    "answer_start": 3, 
+                                    "text": "1066"
+                                }
+                            ], 
+                            "id": "56de16ca4396321400ee25c7", 
+                            "is_impossible": false, 
+                            "question": "When was the Battle of Hastings?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 161, 
+                                    "text": "Anglo-Saxons"
+                                }, 
+                                {
+                                    "answer_start": 157, 
+                                    "text": "the Anglo-Saxons"
+                                }, 
+                                {
+                                    "answer_start": 161, 
+                                    "text": "Anglo-Saxons"
+                                }
+                            ], 
+                            "id": "56de16ca4396321400ee25c8", 
+                            "is_impossible": false, 
+                            "question": "Who was the ruling class ahead of the Normans?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f4b1604f3c001a3ff951", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 3, 
+                                    "text": "1066,"
+                                }
+                            ], 
+                            "question": "When did King Harold II conquer England?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f4b1604f3c001a3ff952", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 85, 
+                                    "text": "Battle of Hastings"
+                                }
+                            ], 
+                            "question": "What battle took place in the 10th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f4b1604f3c001a3ff953", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 161, 
+                                    "text": "Anglo-Saxons"
+                                }
+                            ], 
+                            "question": "Who replaced the Normans as the ruling class?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f4b1604f3c001a3ff954", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 317, 
+                                    "text": "Early Norman kings"
+                                }
+                            ], 
+                            "question": "Who considered their land on the continent their most important holding?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "Eventually, the Normans merged with the natives, combining languages and traditions. In the course of the Hundred Years' War, the Norman aristocracy often identified themselves as English. The Anglo-Norman language became distinct from the Latin language, something that was the subject of some humour by Geoffrey Chaucer. The Anglo-Norman language was eventually absorbed into the Anglo-Saxon language of their subjects (see Old English) and influenced it, helping (along with the Norse language of the earlier Anglo-Norse settlers and the Latin used by the church) in the development of Middle English. It in turn evolved into Modern English.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 629, 
+                                    "text": "Modern English"
+                                }, 
+                                {
+                                    "answer_start": 629, 
+                                    "text": "Modern English"
+                                }, 
+                                {
+                                    "answer_start": 629, 
+                                    "text": "Modern English"
+                                }
+                            ], 
+                            "id": "56de1728cffd8e1900b4b5d7", 
+                            "is_impossible": false, 
+                            "question": "What was the Anglo-Norman language's final form?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f5b0604f3c001a3ff9ab", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 130, 
+                                    "text": "Norman aristocracy"
+                                }
+                            ], 
+                            "question": "Who identified themselves as French during the Hundred Years War?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f5b0604f3c001a3ff9ac", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 382, 
+                                    "text": "Anglo-Saxon"
+                                }
+                            ], 
+                            "question": "What was absorbed into the Anglo-Norman language?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f5b0604f3c001a3ff9ad", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 305, 
+                                    "text": "Geoffrey Chaucer"
+                                }
+                            ], 
+                            "question": "Who made fun of the Latin language?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "The Normans had a profound effect on Irish culture and history after their invasion at Bannow Bay in 1169. Initially the Normans maintained a distinct culture and ethnicity. Yet, with time, they came to be subsumed into Irish culture to the point that it has been said that they became \"more Irish than the Irish themselves.\" The Normans settled mostly in an area in the east of Ireland, later known as the Pale, and also built many fine castles and settlements, including Trim Castle and Dublin Castle. Both cultures intermixed, borrowing from each other's language, culture and outlook. Norman descendants today can be recognised by their surnames. Names such as French, (De) Roche, Devereux, D'Arcy, Treacy and Lacy are particularly common in the southeast of Ireland, especially in the southern part of County Wexford where the first Norman settlements were established. Other Norman names such as Furlong predominate there. Another common Norman-Irish name was Morell (Murrell) derived from the French Norman name Morel. Other names beginning with Fitz (from the Norman for son) indicate Norman ancestry. These included Fitzgerald, FitzGibbons (Gibbons) dynasty, Fitzmaurice. Other families bearing such surnames as Barry (de Barra) and De B\u00farca (Burke) are also of Norman extraction.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 101, 
+                                    "text": "1169"
+                                }, 
+                                {
+                                    "answer_start": 101, 
+                                    "text": "1169"
+                                }, 
+                                {
+                                    "answer_start": 101, 
+                                    "text": "1169"
+                                }
+                            ], 
+                            "id": "56de179dcffd8e1900b4b5da", 
+                            "is_impossible": false, 
+                            "question": "In what year did the Norman's invade at Bannow Bay?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 379, 
+                                    "text": "Ireland"
+                                }, 
+                                {
+                                    "answer_start": 379, 
+                                    "text": "Ireland"
+                                }, 
+                                {
+                                    "answer_start": 379, 
+                                    "text": "Ireland"
+                                }
+                            ], 
+                            "id": "56de179dcffd8e1900b4b5db", 
+                            "is_impossible": false, 
+                            "question": "What country did the Normans invade in 1169?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 37, 
+                                    "text": "Irish"
+                                }, 
+                                {
+                                    "answer_start": 220, 
+                                    "text": "Irish"
+                                }, 
+                                {
+                                    "answer_start": 220, 
+                                    "text": "Irish"
+                                }
+                            ], 
+                            "id": "56de179dcffd8e1900b4b5dc", 
+                            "is_impossible": false, 
+                            "question": "What culture did the Normans combine with in Ireland?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f6f5604f3c001a3ffa09", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 87, 
+                                    "text": "Bannow Bay"
+                                }
+                            ], 
+                            "question": "Where did the Normans invade in the 11th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f6f5604f3c001a3ffa0a", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 0, 
+                                    "text": "The Normans"
+                                }
+                            ], 
+                            "question": "Who did the Irish culture have a profound effect on?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f6f5604f3c001a3ffa0b", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 473, 
+                                    "text": "Trim Castle and Dublin Castle"
+                                }
+                            ], 
+                            "question": "What castles were built by the Irish?"
+                        }
+                    ]
+                }, 
+                {
+                    "context": "One of the claimants of the English throne opposing William the Conqueror, Edgar Atheling, eventually fled to Scotland. King Malcolm III of Scotland married Edgar's sister Margaret, and came into opposition to William who had already disputed Scotland's southern borders. William invaded Scotland in 1072, riding as far as Abernethy where he met up with his fleet of ships. Malcolm submitted, paid homage to William and surrendered his son Duncan as a hostage, beginning a series of arguments as to whether the Scottish Crown owed allegiance to the King of England.", 
+                    "qas": [
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 75, 
+                                    "text": "Edgar"
+                                }, 
+                                {
+                                    "answer_start": 157, 
+                                    "text": "Edgar"
+                                }, 
+                                {
+                                    "answer_start": 75, 
+                                    "text": "Edgar Atheling"
+                                }
+                            ], 
+                            "id": "56de17f9cffd8e1900b4b5e0", 
+                            "is_impossible": false, 
+                            "question": "Who was Margaret's brother?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 120, 
+                                    "text": "King Malcolm III of Scotland"
+                                }, 
+                                {
+                                    "answer_start": 120, 
+                                    "text": "King Malcolm III"
+                                }, 
+                                {
+                                    "answer_start": 120, 
+                                    "text": "King Malcolm III"
+                                }
+                            ], 
+                            "id": "56de17f9cffd8e1900b4b5e1", 
+                            "is_impossible": false, 
+                            "question": "Who was Margaret's husband?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 300, 
+                                    "text": "1072"
+                                }, 
+                                {
+                                    "answer_start": 300, 
+                                    "text": "1072"
+                                }, 
+                                {
+                                    "answer_start": 300, 
+                                    "text": "1072"
+                                }
+                            ], 
+                            "id": "56de17f9cffd8e1900b4b5e2", 
+                            "is_impossible": false, 
+                            "question": "When was Scotland invaded by William?"
+                        }, 
+                        {
+                            "answers": [
+                                {
+                                    "answer_start": 440, 
+                                    "text": "Duncan"
+                                }, 
+                                {
+                                    "answer_start": 440, 
+                                    "text": "Duncan"
+                                }, 
+                                {
+                                    "answer_start": 440, 
+                                    "text": "Duncan"
+                                }
+                            ], 
+                            "id": "56de17f9cffd8e1900b4b5e3", 
+                            "is_impossible": false, 
+                            "question": "Who was the hostage?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f7ac604f3c001a3ffa3b", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 172, 
+                                    "text": "Margaret"
+                                }
+                            ], 
+                            "question": "Who did Edgar marry?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f7ac604f3c001a3ffa3c", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 272, 
+                                    "text": "William"
+                                }
+                            ], 
+                            "question": "Who invaded Scotland in the 10th century?"
+                        }, 
+                        {
+                            "answers": [], 
+                            "id": "5ad3f7ac604f3c001a3ffa3d", 
+                            "is_impossible": true, 
+                            "plausible_answers": [
+                                {
+                                    "answer_start": 440, 
+                                    "text": "Duncan"
+                                }
+                            ], 
+                            "question": "Who did the Scotish king take hostage?"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
