@@ -2,6 +2,10 @@
 
  Codes for the AAAI 2020 paper **SG-Net: Syntax-Guided Machine Reading Comprehension**
 
+Update:
+
+The text->dependency script to obtain the syntax mask: convert_span.py
+
 *working in progress
 
 ![model](model.png)
