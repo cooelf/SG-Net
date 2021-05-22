@@ -4,7 +4,7 @@
 
 **Update**:
 
-*The text->dependency script to obtain the syntax mask: convert_span.py*
+*The text->dependency script to obtain the syntax mask: [convert_span.py](convert_span.py)*
 
 *working in progress
 
